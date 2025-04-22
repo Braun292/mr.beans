@@ -10,4 +10,4 @@ Pirmais unity projekts apgūstam UI elementu lietošanu
 - [ ] Otras ainas (scene) ieviešana
 - [ ] Collider 2D un Rigidbody 2D (fizikas spēka iedarbība)
 - [ ] Virtulu spavneris
-(https://static.wikia.nocookie.net/mrbean/images/9/9c/Mr_bean_side_profile.png/revision/latest/scale-to-width/360?cb=20230724064238)
+(![image](https://github.com/user-attachments/assets/005f46e3-e126-46ad-88a2-c46e86a94e31)
