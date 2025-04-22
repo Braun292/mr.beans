@@ -7,6 +7,6 @@ Pirmais unity projekts apgūstam UI elementu lietošanu
 - [ ] Pirma c# skritpa izveide
 - [ ] audio source ieviešana
 - [ ] Scrollview elementa lietojums
-- [ ] Otras olas (scene) ieviešana
+- [ ] Otras ainas (scene) ieviešana
 - [ ] Collider 2D un Rigidbody 2D (fizikas spēka iedarbība)
 - [ ] Virtulu spavneris
