@@ -5,7 +5,7 @@ Pirmais unity projekts apgūstam UI elementu lietošanu
 - [ ] Canvas izmera pielagošana
 - [ ] Checkbox, Dropdown
 - [ ] Pirma c# skritpa izveide
-- [ ]audio source ieviešana
+- [ ] audio source ieviešana
 - [ ] Scrollview elementa lietojums
 - [ ] Otras olas (scene) ieviešana
 - [ ] Collider 2D un Rigidbody 2D (fizikas spēka iedarbība)
